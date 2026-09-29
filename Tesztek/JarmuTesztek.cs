@@ -103,7 +103,6 @@ namespace Tesztek
             Assert.That(auto.KilometerOra, Is.EqualTo(190000));
         }
 
-        /*
 
         // -------------------------
         // TeherAuto tesztek
@@ -145,6 +144,7 @@ namespace Tesztek
 
             Assert.That(auto.Rakomany, Is.EqualTo(20));
         }
+        /*
 
         // -------------------------
         // Szerviz tesztek
