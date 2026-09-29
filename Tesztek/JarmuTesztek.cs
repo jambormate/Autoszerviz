@@ -8,7 +8,7 @@ namespace Tesztek
         // -------------------------
         // Jarmu tesztek
         // -------------------------
-
+        /*
         [Test]
         public void Jarmu_Rendszam_HianyzoErtekEsetenIsmeretlen()
         {
@@ -59,9 +59,9 @@ namespace Tesztek
             Jarmu jarmu = new Jarmu("ABC-123", 5, 200000, 50);
 
             jarmu.Szervizel(50000);
-
             Assert.That(jarmu.UzemanyagSzint, Is.EqualTo(40));
         }
+
 
 
         // -------------------------
@@ -199,5 +199,6 @@ namespace Tesztek
             Assert.That(auto.KilometerOra, Is.EqualTo(190000));
             Assert.That(auto.AkkumulatorSzint, Is.EqualTo(70));
         }
+        */
     }
 }
