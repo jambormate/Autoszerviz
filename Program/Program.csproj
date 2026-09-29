@@ -6,6 +6,7 @@
 	 <RollForward>Major</RollForward>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+	<StartupObject>Program.Program</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
