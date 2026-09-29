@@ -8,7 +8,6 @@ namespace Tesztek
         // -------------------------
         // Jarmu tesztek
         // -------------------------
-        /*
         [Test]
         public void Jarmu_Rendszam_HianyzoErtekEsetenIsmeretlen()
         {
@@ -104,6 +103,7 @@ namespace Tesztek
             Assert.That(auto.KilometerOra, Is.EqualTo(190000));
         }
 
+        /*
 
         // -------------------------
         // TeherAuto tesztek
